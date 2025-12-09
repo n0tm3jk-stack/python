@@ -8,7 +8,8 @@ meme_dict = {
             "cracker": "eres jincho o palido",
             "MAGA": "culto de America",
             "calc": "abreviaccion de calculadora",
-            "67": "meme de tiktok"}
+            "67": "meme de tiktok"
+            }
 word = input("Escribe una palabra que no entiendas (¡con mayúsculas!): ")
 
 if word in meme_dict.keys():
